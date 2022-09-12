@@ -1,4 +1,4 @@
-package Java.FirstWork.Task04;
+package ru.mirea.kvbo1.toryanik.Work1.Task04;
 
 public class Forth
 {

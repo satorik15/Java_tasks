@@ -1,4 +1,4 @@
-package Java.FirstWork.Task03;
+package ru.mirea.kvbo1.toryanik.Work1.Task03;
 
 public class Third
 {
