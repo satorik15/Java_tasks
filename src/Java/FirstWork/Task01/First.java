@@ -1,4 +1,4 @@
-package ru.mirea.kvbo1.toryanik.FirstWork.Task01;
+package Java.FirstWork.Task01;
 
 public class First
 {

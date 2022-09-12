@@ -1,4 +1,4 @@
-package ru.mirea.kvbo1.toryanik.FirstWork.Task02;
+package Java.FirstWork.Task02;
 import java.util.Scanner;
 
 public class Second
