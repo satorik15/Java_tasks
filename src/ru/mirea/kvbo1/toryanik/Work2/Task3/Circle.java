@@ -14,16 +14,16 @@ public class Circle extends Point
     }
 
     public void setRadius(double x,double y) {
-        super.x = x;
-        super.y = y;
+        super.setX(x);
+        super.setY(y);
     }
 
     @Override
     public String toString() {
         return "Circle{" +
                 "radius=" + radius +
-                ", x=" + x +
-                ", y=" + y +
+                ", x=" + getX() +
+                ", y=" + getY() +
                 '}';
     }
 }
