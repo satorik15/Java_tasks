@@ -1,4 +1,4 @@
-package ru.mirea.kvbo1.toryanik.Exceptions.Work18.Task1;
+package ru.mirea.kvbo1.toryanik.Exceptions.Work18.Task2;
 import java.util.Scanner;
 public class Exception2 {
     public  void exceptionDemo() {

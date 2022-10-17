@@ -1,4 +1,4 @@
-package ru.mirea.kvbo1.toryanik.Exceptions.Work18.Task1;
+package ru.mirea.kvbo1.toryanik.Exceptions.Work18.Task6;
 
 public class Exception6 {
     public void printMessage(String key) {

@@ -1,5 +1,4 @@
-package ru.mirea.kvbo1.toryanik.Exceptions.Work18.Task1;
-import ru.mirea.kvbo1.toryanik.Exceptions.Work19.Work19;
+package ru.mirea.kvbo1.toryanik.Exceptions.Work18.Task8;
 
 import java.util.Scanner;
 public class Exception8
