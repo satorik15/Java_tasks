@@ -5,7 +5,6 @@ import java.util.Arrays;
 public class Student
 {
     private int iDNumber[];
-
     public Student()
     {
         iDNumber=new int[5];
